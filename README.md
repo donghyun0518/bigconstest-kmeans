@@ -1,13 +1,13 @@
-<h1 style="text-align: center;">🚲 제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전</h1>
+<h1 style="text-align: center;">🏅 2024 AI.데이터 분석활용 빅콘데스트 Ai 데이터 경진대회</h1>
 <hr>
 <p style="text-align: center;">
-    <img src="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/sejong.png" alt="Project Cover" style="width: 600px; border: 1px solid #c9d1d9; border-radius: 8px;">
-    <a href="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%B5%9C%EC%A2%85.pdf" target="_blank">
-        <img src="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
+    <img src="https://github.com/donghyun0518/bigconstest/blob/main/bigcontest.png" alt="Project Cover" style="width: 600px; border: 1px solid #c9d1d9; border-radius: 8px;">
+    <a href="https://github.com/donghyun0518/bigconstest/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_Be%20in.zip%ED%8C%80_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">
+        <img src="https://github.com/donghyun0518/bigconstest/blob/main/%EB%B9%85%EC%BD%98%EB%B0%9C%ED%91%9C%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
 
-[프로젝트 발표 자료](https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%B5%9C%EC%A2%85.pdf)
+[프로젝트 발표 자료](https://github.com/donghyun0518/bigconstest/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_Be%20in.zip%ED%8C%80_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ## 🔍 프로젝트 개요
 - **목적** : 세종시 출퇴근 시간대 교통 체증 완화를 통한 시민의 삶의 질 향상
